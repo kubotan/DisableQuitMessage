@@ -1,0 +1,6 @@
+name: DisableQuitMessage
+version: 1.1
+api-version: 1.15
+description: Disable quit message.
+author: kubotan
+main: space.gorogoro.disablequitmessage.DisableQuitMessage
